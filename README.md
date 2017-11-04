@@ -1,10 +1,10 @@
 # Todo Project with Ionic framework (3+)
 
-<img src="src/assets/screenshot.png" width="408" />
-
 ## User Story
 
 Build a simple Ionic app with a list view in which you can add and delete items.
+
+<img src="src/assets/screenshot.png" />
 
 
 ## Stucks
