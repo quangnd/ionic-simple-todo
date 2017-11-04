@@ -1,6 +1,6 @@
 # Todo Project with Ionic framework (3+)
 
-![Screnshot](https://www.dropbox.com/s/qk2zsmalyceuypq/Screenshot%202017-11-04%2011.21.58.png?dl=0)
+![ImageScreenshot](https://www.dropbox.com/s/qk2zsmalyceuypq/Screenshot%202017-11-04%2011.21.58.png?dl=0)
 
 ## User Story
 
